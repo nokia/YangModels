@@ -1,3 +1,4 @@
 [submodule "7x50_YangModels"]
 	path = 7x50_YangModels
 	url = https://github.com/nokia/7x50_YangModels.git
+	branch = master
